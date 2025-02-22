@@ -1,0 +1,256 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding: 1px;
+    height:216px;
+    background-color: black;
+}
+#para1{
+    color: #b7b7b7;
+    font-size: 48px;
+    font-style: normal;
+    font-family: "Playfair Display", serif;
+    margin-left:511px;
+    font-weight: normal;
+    letter-spacing: 10px;
+    transform: scaleY(1.1);
+    transform: scaleX(.83);
+    font-stretch: wider;
+    text-decoration: none;
+    margin-top: 42px;
+    margin-bottom: 0%;
+}
+#para1:hover{
+    color:#db4f3d;
+}
+#para2{
+    margin-top: 3px;
+    color: #b7b7b7;
+    font-size: 14px;
+    font-style: normal;
+    font-family: sans-serif;
+    margin-left:475px;
+    font-weight: normal;
+    line-height: 1;
+    letter-spacing: 6px;
+    transform: scaleX(.9);
+    font-stretch: wider;
+}
+#break{
+    margin-top:44px;
+    width:93%;
+    border:1px solid #323131;
+}
+#ulist{
+    list-style: none;
+    display:flex;
+    color:white;
+    margin-left:350px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size:14px;
+}
+#li1{
+    margin-left: 35px;
+    text-decoration: none;
+}
+#li2{
+    margin-left: 35px;
+    text-decoration: none;
+}
+#li3{
+    margin-left: 35px;
+    text-decoration: none;
+}
+#li4{
+    margin-left: 35px;
+    text-decoration: none;
+}
+#li5{
+    margin-left: 35px;
+    text-decoration: none;
+}
+#li6{
+    margin-left: 35px;
+    text-decoration: none;
+}
+#li1:hover{
+    color:#db4f3d;
+}
+#li2:hover{
+    color:#db4f3d;
+}
+#li3:hover{
+    color:#db4f3d;
+}
+#li4:hover{
+    color:#db4f3d;
+}
+#li5:hover{
+    color:#db4f3d;
+}
+#li6:hover{
+    color:#db4f3d;
+}
+#menu{
+    color:white;
+    background-color: black;
+    border: none;
+    text-decoration: none;
+}
+#menu:hover{
+    color:#db4f3d;
+}
+.mainbody{
+    width:100%;
+    height:800px;
+    float:left;
+}
+.backgroundimg{
+    width:100%;
+    height:800px;
+}
+.subbody{
+    width:auto;
+    height:750px;
+    background-color: black;
+    float:left;
+    display: block;
+    padding:170px;
+}
+.divimg{
+    width:878px;
+    height:500px;
+    padding-top: 45px;
+    padding-left: 148px;
+}
+#para3{
+    color:#b7b7b7;
+    font-size:20px;
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: bold;
+    line-height:30px;
+    padding-left: 84px;
+}
+#para4{
+    color:#b7b7b7;
+    font-size:20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 84px;
+}
+#para5{
+    color:#b7b7b7;
+    font-size:20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 84px;
+}
+.footer{
+    width:100%;
+    background-color: black;
+    display: block;
+}
+.socialmediaicons{
+    width:100%;
+    height:300px;
+    background-color: black;
+    display: flex;
+}
+#icon1{
+    cursor: pointer;
+    background-image:url('https://clipground.com/images/logo-facebook-png-transparente-5.png');
+    background-size: cover;
+    background-color: initial;
+    display:flex;
+    margin-top:68px;
+    margin-left:540px;
+    width:33px;
+    height:33px;
+    border:none;
+}
+#icon2{
+    cursor: pointer;
+    background-image:url('https://th.bing.com/th/id/R.639b3dafb544d6f061fcddd2d6686ddb?rik=uTgiI8dR3qSZ7w&riu=http%3a%2f%2fpluspng.com%2fimg-png%2finstagram-logo-eps-png-instagram-icon-white-on-black-circle-1600.png&ehk=ca0MkI%2fDPQNBkGsx%2fcf6uR%2fbAKLLR%2bH2a%2fTRKBnLcU4%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    background-color: initial;
+    display:flex;
+    margin-top:66px;
+    margin-left:90px;
+    width:38px;
+    height:38px;
+    border:none;
+}
+#icon3{
+    cursor: pointer;
+    background-image:url('https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png');
+    background-size: cover;
+    background-color: initial;
+    display:flex;
+    margin-left:102px;
+    margin-top:72px;
+    width:30px;
+    height:30px;
+    border:none;
+}
+#icon4{
+    cursor: pointer;
+    background-image:url('https://www.freepnglogos.com/uploads/youtube-logo-icon-transparent---32.png');
+    background-size: cover;
+    background-color: initial;
+    display:flex;
+    margin-left:98px;
+    margin-top:72px;
+    width:35px;
+    height:30px;
+    border:none;
+}
+#para6{
+    color:#999;
+    display: block;
+    padding-bottom: 43px;
+    margin-left: 570px;
+    margin-bottom: 0;
+    font-size: 13.1px;
+    font-family:sans-serif;
+    text-decoration: none;
+    letter-spacing: 1.5;
+}
+#style{
+    color: white;
+}
+#style:hover{
+    color:#db4f3d;
+    text-decoration: underline;
+}
+#orangecircle{
+    width: 30px; 
+    height: 30px;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #db4f3d;
+    border-radius: 60%;
+    padding:5px;
+    margin-left: 1450px;
+    bottom: 35px;
+    position: fixed;
+    right:30px;
+    text-decoration: none;
+    text-align: center;
+}
+#orangecircle:hover{
+    color:black;
+    background-color: white;
+}
+#para7{
+    font-size:x-large;
+    margin-top: 5px;
+    transform: scaleX(1.3);
+}
